@@ -1,0 +1,4 @@
+/* 記事2-3カラムの位置調整 */
+.wp-block-column {
+	margin-top: 20px!important;
+}
